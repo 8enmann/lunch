@@ -1,0 +1,33 @@
+#messagesDiv {
+  margin:10px;
+}
+.footer {
+  margin:10px;
+  position:fixed;
+  bottom:0;
+}
+.spacer {
+  height:40px;
+  width:100%;
+}
+header {
+  background-color:#563d7c;
+  height:50px;
+}
+.login {
+  color:white !important;
+  padding:15px;
+  display:block;
+  position:relative;
+}
+.login a {
+  color:white !important;
+}  
+.img-profile {
+  position: absolute;
+  border: 3px solid white;
+  top: 5px;
+  left: -35px;
+  height: 40px;
+}
+  
